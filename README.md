@@ -1,2 +1,2 @@
-# fddkim.mobikwik.com
-fddkim.mobikwik.com
+# www.example.com
+www.example.com
